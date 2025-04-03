@@ -1,0 +1,32 @@
+[   
+    {
+    "email": "peter.quill@alura.com.br",
+    "fullName": "Peter Jason Quill",
+    "userName": "senhor_das_estrelas",
+    "password": "hibrido"
+    },
+    {
+    "email": "groot@alura.com.br",
+    "fullName": "Groot",
+    "userName": "groot",
+    "password": "colossusfloral"
+    },
+    {
+        "email": "incontinencia@alura.com.br",
+        "fullName": "Urinaria",
+        "userName": "InconUri",
+        "password": "éfoda123"
+    },
+    {
+        "email": "sebonascanelas@alura.com.br",
+        "fullName": "Sebo nas canelas",
+        "userName": "Sebo_nas_Canelas",
+        "password": "canelada646"
+    },
+    {
+        "email": "silvinhamiranda@alura.com.br",
+        "fullName": "Silvinha miranda",
+        "userName": "Silvinha_Estrela_aos_40",
+        "password": "silvinha123456789"
+    }
+]

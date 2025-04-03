@@ -4,9 +4,9 @@ Este projeto consiste em utilizar a automação Cypress.js para testar a funcion
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-<img src="https://img.shields.io/badge/-Cypress-%13aa52?style=for-the-badge&logo=-cypress-&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/-Cypress-%23333?style=for-the-badge&logo=-cypress-&logoColor=white" target="_blank"></a>
 <br>
-<img src="https://img.shields.io/badge/-Javascript-%230077B5?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/-Javascript-%23FFD700?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
 
 ## 🛠️ Abrir e rodar o projeto
 

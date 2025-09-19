@@ -10,4 +10,4 @@ Este projeto consiste em utilizar a automação Cypress.js para testar a funcion
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para abrir e rodar o projeto é necessário configurar a aplicação rodando localmente, execute `npm i` ou `yarn` para instalar as dependências.
+Para abrir e rodar o projeto é necessário configurar a aplicação rodando localmente, execute `npm install` ou `yarn` para instalar as dependências.
